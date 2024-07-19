@@ -4,7 +4,7 @@ A Student Management System to manage data of the Students.
 
 Tech Used : Java, Swing GUI, JDBC<br>
 Database : MySQL<br>
-Software : Eclipse<br>
+Software : NetBeans<br>
 Control Panel : xampp, phpmyadmin<br>
 Server : Apache<br>
 
